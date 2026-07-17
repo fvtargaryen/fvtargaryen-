@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi there! 👋 I'm Flávio Vinícius da Silva Ribeiro</h1>
 
 <h3 align="center">

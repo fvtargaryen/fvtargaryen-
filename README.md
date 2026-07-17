@@ -11,7 +11,7 @@ Computational Chemistry • Molecular Modeling • Molecular Dynamics • Drug D
 <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white">
 </a>
 
-<a href="https://scholar.google.com/citations?user=Ms_GiH0AAAAJ&hl=pt-BR">
+<a href="https://scholar.google.com/citations?user=Ms_GiH0AAAAJ&hl=en">
 <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white">
 </a>
 
@@ -59,9 +59,9 @@ My research focuses on **protein–ligand interactions**, **computer-aided drug 
 
 | Category | Tools |
 |-----------|-------|
-| Programming | Python • Git • Linux |
-| Molecular Dynamics | AMBER • GROMACS • CPPTRAJ • MDAnalysis |
-| Molecular Modeling | RDKit • PyMOL • Gaussian • ORCA • pDynamo |
+| **Programming** | Python • Git • Linux |
+| **Molecular Dynamics** | AMBER • GROMACS • CPPTRAJ • MDAnalysis |
+| **Molecular Modeling** | RDKit • PyMOL • Gaussian • ORCA • pDynamo |
 
 ---
 
@@ -81,9 +81,9 @@ My research focuses on **protein–ligand interactions**, **computer-aided drug 
 
 **Flávio V. S. Ribeiro**, R. P. Valente, H. G. Kruger *et al.*
 
-*Journal of Computer-Aided Molecular Design* (2026)
+*Journal of Computer-Aided Molecular Design* **(2026)**
 
-📄 DOI: https://doi.org/10.1007/s10822-026-00763-z
+📄 **DOI:** https://doi.org/10.1007/s10822-026-00763-z
 
 ---
 
@@ -100,7 +100,7 @@ My research focuses on **protein–ligand interactions**, **computer-aided drug 
 ## 📫 Contact
 
 📧 **Email**  
-flavio.silva.ribeiro@icen.ufpa.br
+<flavio.silva.ribeiro@icen.ufpa.br>
 
 🔗 **LinkedIn**  
 https://www.linkedin.com/in/flávio-vinícius-da-silva-ribeiro-a2aa17384
@@ -112,13 +112,11 @@ https://lattes.cnpq.br/5746409774570373
 https://orcid.org/0000-0002-7772-8257
 
 📚 **Google Scholar**  
-https://scholar.google.com/citations?user=Ms_GiH0AAAAJ&hl=pt-BR
+https://scholar.google.com/citations?user=Ms_GiH0AAAAJ
 
 ---
 
 <p align="center">
-
-*"Advancing molecular science through computational approaches."*
-
+<i>"Advancing molecular science through computational approaches."</i>
 </p>
 ```
